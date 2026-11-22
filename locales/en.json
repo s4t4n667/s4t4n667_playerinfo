@@ -1,0 +1,16 @@
+{
+    "menu_title": "Player Information",
+    "player_id": "Player ID: %s",
+    "job_rank": "Rank: %s",
+    "job_pay": "Pay: %s",
+    "bank": "Bank: %s",
+    "cash": "Cash: %s",
+    "dirty_money": "Dirty Money: %s",
+    "unemployed": "Unemployed",
+    "not_available": "N/A",
+    "load_error": "Could not load your character data.",
+    "command_help": "View your character information",
+    "keybind_desc": "Open player info",
+    "framework_error": "Unsupported or missing framework: %s",
+    "framework_none": "none found"
+}

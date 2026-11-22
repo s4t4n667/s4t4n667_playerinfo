@@ -1,0 +1,16 @@
+{
+    "menu_title": "Spielerinformationen",
+    "player_id": "Spieler-ID: %s",
+    "job_rank": "Rang: %s",
+    "job_pay": "Gehalt: %s",
+    "bank": "Bank: %s",
+    "cash": "Bargeld: %s",
+    "dirty_money": "Schwarzgeld: %s",
+    "unemployed": "Arbeitslos",
+    "not_available": "k. A.",
+    "load_error": "Deine Charakterdaten konnten nicht geladen werden.",
+    "command_help": "Zeige deine Charakterinformationen an",
+    "keybind_desc": "Spielerinfo öffnen",
+    "framework_error": "Nicht unterstütztes oder fehlendes Framework: %s",
+    "framework_none": "keines gefunden"
+}

@@ -1,0 +1,16 @@
+{
+    "menu_title": "Informations du joueur",
+    "player_id": "ID joueur : %s",
+    "job_rank": "Grade : %s",
+    "job_pay": "Salaire : %s",
+    "bank": "Banque : %s",
+    "cash": "Espèces : %s",
+    "dirty_money": "Argent sale : %s",
+    "unemployed": "Sans emploi",
+    "not_available": "N/D",
+    "load_error": "Impossible de charger les données de votre personnage.",
+    "command_help": "Afficher les informations de votre personnage",
+    "keybind_desc": "Ouvrir les infos du joueur",
+    "framework_error": "Framework non pris en charge ou manquant : %s",
+    "framework_none": "aucun trouvé"
+}
