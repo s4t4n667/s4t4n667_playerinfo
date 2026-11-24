@@ -4,7 +4,7 @@
 
 A lightweight player info menu using ox_lib. Players can see their character name, server ID, bank, cash and dirty money balances along with current job (optional rank and pay).
 
-[**Store**](https://asgaard-developments.tebex.io/)
+[**Documentation:**](https://s4t4n667.gitbook.io/asgaard-developments/free-scripts/player-info) | [**Store**](https://asgaard-developments.tebex.io/)
 
 <a href="https://5metrics.dev/resource/s4t4n667_playerinfo">
   <img src="https://badges.5metrics.dev/s4t4n667_playerinfo/servers.svg?style=for-the-badge" alt="Servers">
